@@ -1,0 +1,2 @@
+ErrorDocument 404 /BudDialogue/404.html
+Options -Indexes
